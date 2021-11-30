@@ -1,7 +1,1 @@
 import './scss/main.scss';
-
-
-
-
-
-
