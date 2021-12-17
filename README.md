@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# WEBPACK TEMPLATE
+# Leaderboard - Microverse
 
 
 
@@ -37,8 +37,8 @@ Install the packages globally and after that:
 
 ### Run tests
 
-- `npm run test`
-- `npm run fixlinters`
+- `npm run fixlinters`  fix and look up for errors
+- `npm run test` jest test
 
 ## Authors
 
