@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/iwillteixeira/leaderboard_proj"
   },
   "keywords": [],
-  "author": "",
+  "author": "Will",
   "license": "ISC",
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.14.5",
@@ -48,5 +48,5 @@
     "@jest/globals": "^27.0.6",
     "git-flow": "^0.2.0"
   },
-  "description": ""
+  "description": "Leaderboard project"
 }
