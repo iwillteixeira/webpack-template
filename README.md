@@ -2,10 +2,11 @@
 
 # Leaderboard - Microverse
 
-## 
+
 
 ## Built With
 
+- WEBPACK
 - HTML
 - CSS
 - JS
@@ -38,6 +39,7 @@ Install the packages globally and after that:
 
 - `npm run fixlinters`  fix and look up for errors
 - `npm run test` jest test
+
 ## Authors
 
 👤 **Will Teixeira**
