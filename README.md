@@ -37,8 +37,8 @@ Install the packages globally and after that:
 
 ### Run tests
 
--`npm run test`
--`npm run fixlinters`
+- `npm run test`
+- `npm run fixlinters`
 
 ## Authors
 
