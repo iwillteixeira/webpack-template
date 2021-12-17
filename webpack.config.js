@@ -1,7 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
-
 module.exports = {
   entry: './src/index.js',
   output: {
@@ -9,9 +8,12 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     clean: true,
   },
-
+  devtool: 'inline-source-map',
   devServer: {
     contentBase: './dist',
+    headers: {
+      'Acess-Control-Allow-Origin': '*',
+    },
   },
 
   module: {
@@ -37,4 +39,5 @@ module.exports = {
   ],
 
   mode: 'development',
+  
 };
