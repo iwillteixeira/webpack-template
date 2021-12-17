@@ -6,6 +6,7 @@
 
 ## Built With
 
+- WEBPACK
 - HTML
 - CSS
 - JS
@@ -36,9 +37,9 @@ Install the packages globally and after that:
 
 ### Run tests
 
-`npx hint .`
-`npx stylelint "**/*.scss"`
-`npx eslint .`
+-`npm run test`
+-`npm run fixlinters`
+
 ## Authors
 
 👤 **Will Teixeira**
